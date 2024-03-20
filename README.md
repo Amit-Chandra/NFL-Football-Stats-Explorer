@@ -1,5 +1,4 @@
 
-```markdown
 # NFL Football Stats (Rushing) Explorer
 
 This Streamlit app allows users to explore NFL Football player rushing statistics. Users can filter data by year, team, and position, visualize correlations, and download the filtered data as a CSV file.
